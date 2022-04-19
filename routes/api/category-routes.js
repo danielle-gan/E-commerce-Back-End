@@ -56,7 +56,7 @@ router.post('/', (req, res) => {
     .then(dbData => res.json(dbData))
     .catch(err => {
       console.log(err);
-      res.status(500).json(err);
+      res.status(400).json(err);
     });
 });
 
