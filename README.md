@@ -42,5 +42,5 @@ DB_PW= <password>
 - Sequelize
 
 # Link to Video
-![Video](https://drive.google.com/file/d/1pxw2ir1MNNElUwrk5z7N9rKSjmuETtsO/view) 
+[Video](https://drive.google.com/file/d/1pxw2ir1MNNElUwrk5z7N9rKSjmuETtsO/view) 
 
