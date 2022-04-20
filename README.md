@@ -17,6 +17,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia <br/>
 THEN I am able to successfully create, update, and delete data in my database
 
 # Screenshots
+[!Screenshot](./assets/images/screenshot.PNG)
 
 # Installation
 1. Clone the repo
@@ -41,5 +42,5 @@ DB_PW= <password>
 - Sequelize
 
 # Link to Video
-[!]
+[!Video](https://drive.google.com/file/d/1pxw2ir1MNNElUwrk5z7N9rKSjmuETtsO/view) 
 
