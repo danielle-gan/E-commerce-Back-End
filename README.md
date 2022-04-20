@@ -24,7 +24,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 DB_NAME=ecommerce_db
 DB_USER= <username>
-DB_PW= <strongpass>
+DB_PW= <password>
 ```
 3. type "npm i" in your desired terminal
 4. log in to mysql in the terminal and type "source db/schema.sql"
